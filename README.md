@@ -10,7 +10,7 @@
 
 ### Technologies & Tools
 
-[![Text Editor](https://img.shields.io/bade/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+[![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 
 Here are some ideas to get you started:
 
