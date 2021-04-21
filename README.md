@@ -8,6 +8,10 @@
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=insanemallard&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=sbbc8a&bg_color=1d1f21" alt="Grey's GitHub Stats" />
 </a>
 
+### Technologies & Tools
+
+[![Text Editor](https://img.shields.io/bade/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
